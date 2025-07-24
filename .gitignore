@@ -137,3 +137,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+git add package.json server.js
+git commit -m "Place server.js and package.json in the same folder for Render"
+git push
